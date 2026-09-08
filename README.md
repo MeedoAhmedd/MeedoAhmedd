@@ -1,181 +1,244 @@
+<div align="center">
+
 # MOHAMED AHMED
 
 ### Computer Science Student · Software Developer · Game Developer
 
-I build **software, backend systems, AI-powered applications, and interactive experiences**.
+**I build things to learn how they work.**
 
-Currently studying Computer Science at the **German International University**, while building projects that let me explore software architecture, backend engineering, AI integration, and game development.
+From backend systems and AI-powered applications to games and experimental ideas,
+I'm interested in turning concepts into real, working software.
 
-> **Currently building:** A workflow engine with Java & Spring Boot.
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+</div>
 
 ---
 
-## WHAT I BUILD
+## 👨‍💻 About Me
 
-### WEB & SOFTWARE
+I'm a **Computer Science student at the German International University (GIU)** exploring different areas of software development through hands-on projects.
+
+I enjoy working on projects that force me to understand what's happening **behind the scenes** — whether that's designing backend architecture, connecting AI to an application, building a workflow system, or creating a game from scratch.
+
+Right now, I'm mainly focused on:
+
+* ⚙️ Backend development with **Java & Spring Boot**
+* 🌐 Full-stack web development
+* 🤖 AI integration into applications
+* 🎮 Game development with **Unity & C#**
+* 🧠 Software architecture and system design
+
+> **Currently building:** A workflow engine from the ground up with Java & Spring Boot.
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Web & Software
+
+Building applications that solve real problems and exploring how their backend systems work.
+
+**Featured**
 
 **GIU Nexus**
+
 A full-stack career platform connecting students, recruiters, and administrators.
 
-My work included:
+My contributions included:
 
 * Backend development
-* MongoDB / Mongoose data models
+* MongoDB / Mongoose models
 * Application management
-* AI-powered job recommendations
+* AI job recommendations
 * Hugging Face sentence embeddings
 * Cosine similarity
-* React administration features
+* React admin features
 * Recruiter management
-* Multi-level recruiter approval workflows
+* Multi-level approval workflows
 
-**Workflow Engine** · `IN PROGRESS`
-A backend workflow engine built with Java and Spring Boot.
+</td>
 
-Currently exploring:
+<td width="33%" valign="top">
 
-* Workflows
-* States
-* Transitions
-* Workflow instances
-* JPA / Hibernate
-* REST APIs
-* Service architecture
-* Persistence
+### 🎮 Games & Interactive
 
----
+Game development is where I experiment with mechanics, interaction, environments, and ideas that don't necessarily fit into traditional software.
 
-### GAMES & INTERACTIVE
+**Projects**
 
 **Haunted Forest**
-A 3D horror/adventure project built with Unity and C#, where the player searches for a missing child and follows clues leading to three keys and a hidden cave.
+
+A 3D horror/adventure game built with Unity & C#.
+
+The player searches for a missing child, follows clues, finds three keys, and eventually discovers a hidden cave.
 
 **5 Million Haystack, 1 Needle**
-A first-person 3D search-game prototype built around one simple idea:
 
-> Find one needle hidden inside a massive amount of hay.
+A first-person 3D search game built around one ridiculous problem:
 
-The project explores large environments, first-person interaction, procedural/random placement, physical digging, collision, and interactive search mechanics.
+**Find one needle hidden inside an enormous amount of hay.**
 
----
+</td>
 
-### EXPERIMENTAL
+<td width="33%" valign="top">
 
-I also use personal projects and prototypes to experiment with:
+### ⚙️ Experimental
+
+Not every project starts with the goal of becoming a finished product.
+
+Some are built to answer a question:
+
+**"Can I build this?"**
+
+I use smaller projects and prototypes to explore:
 
 * AI integrations
 * Game mechanics
 * Backend architecture
-* Creative coding
 * 3D experiences
+* Creative coding
+* New frameworks
 * Software ideas
-* University projects
 
-Not everything starts as a finished product. Some projects exist specifically to learn, test an idea, or understand a technology by building with it.
+Building is how I learn.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## CURRENTLY BUILDING
+# ⚙️ Currently Building
 
-### WORKFLOW ENGINE
+## Workflow Engine
 
 `Java` · `Spring Boot` · `JPA` · `Hibernate` · `H2`
 
-I'm currently building a workflow engine from the ground up to understand how workflow systems are structured internally.
+I'm building a workflow engine step-by-step to understand how workflow systems are designed internally.
 
-The project is being developed step-by-step, starting with the core domain:
+The project started from four core concepts:
 
-**Workflow → State → Transition → Workflow Instance**
+```text
+Workflow
+   │
+   ├── States
+   │     │
+   │     └── Transitions
+   │
+   └── Workflow Instances
+```
 
-More functionality will be added as development continues.
+I'm currently exploring:
+
+* Domain modelling
+* Entity relationships
+* JPA / Hibernate
+* REST APIs
+* Service architecture
+* Persistence
+* Workflow state management
+* Transition logic
+
+The goal isn't just to make it work.
+
+**It's to understand why it works.**
 
 ---
 
-## TECHNOLOGIES
+# 🧰 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square\&logo=csharp\&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000000?style=flat-square\&logo=lua\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,cs,lua" />
+</p>
 
-### Backend & Databases
+### Web & Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square\&logo=mongodb\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat-square\&logo=hibernate\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square\&logo=react\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,mongodb" />
+</p>
 
 ### Game Development
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square\&logo=clion\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,clion,vscode" />
+</p>
 
 ---
 
-## EXPERIENCE
-
-### ASSET Technology Group
-
-**Software Engineering Intern**
-
-Professional software development experience as part of my journey into software engineering.
-
-*Detailed responsibilities and projects will be added as the experience section is finalized.*
-
----
-
-## EDUCATION
+# 🎓 Education
 
 ### German International University
 
-**Computer Science**
+**B.Sc. Computer Science**
 
-Currently studying Computer Science with coursework covering areas including:
+Currently studying Computer Science with coursework and projects involving:
 
 `Object-Oriented Programming` · `Data Structures` · `Computer Networks` · `Computer Organization` · `Software Development`
 
 ---
 
-## WHAT I'M LEARNING
+# 💼 Experience
 
-I'm particularly interested in going deeper into:
+### ASSET Technology Group
 
-* Backend engineering
-* Java & Spring Boot
-* Software architecture
-* Workflow systems
-* APIs and distributed systems
-* AI-powered applications
-* Game development
-* Building complete projects from idea to implementation
+**Software Engineering Intern**
+
+Gaining professional experience in software development while continuing to build personal and university projects.
 
 ---
 
-## FIND ME
+# 🧠 What I'm Learning
 
-🌐 **Portfolio:** https://meedoahmedd.github.io/mohamed-ahmed-portfolio/
+```text
+Backend Engineering
+        ↓
+Java & Spring Boot
+        ↓
+Software Architecture
+        ↓
+Workflow Systems
+        ↓
+AI-powered Applications
+        ↓
+Game Development
+```
 
-💼 **LinkedIn:** https://www.linkedin.com/in/mohamed-ahmed-642b38405/
-
+I'm still early in my software engineering journey, so this profile is a record of what I'm learning, building, and improving along the way.
 
 ---
 
-### BUILD. LEARN. EXPERIMENT. REPEAT.
+# 📌 A Few Things About My Work
 
-I'm still early in my software engineering journey, so this profile is constantly evolving as I build more things.
+* I prefer **building projects over only following tutorials**.
+* I like understanding how systems work underneath the surface.
+* I enjoy moving between **software and game development**.
+* Some projects are serious applications; others start as crazy ideas.
+* I'm constantly experimenting with new technologies and ways of building things.
+
+---
+
+<div align="center">
+
+### BUILD · LEARN · BREAK · FIX · REPEAT
+
+<br>
+
+**Thanks for visiting my profile.**
+
+</div>
