@@ -1,38 +1,48 @@
 <div align="center">
 
-# MOHAMED AHMED
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=MOHAMED%20AHMED&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20%7C%20Game%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Computer Science Student · Software Developer · Game Developer
+</div>
 
-**I build things to learn how they work.**
+<div align="center">
 
-From backend systems and AI-powered applications to games and experimental ideas,
-I'm interested in turning concepts into real, working software.
+### Building software, backend systems, AI-powered applications & games.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_LINK)
+<img src="https://komarev.com/ghpvc/?username=MeedoAhmedd&label=Profile%20Views&color=2563EB&style=flat-square" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
 I'm a **Computer Science student at the German International University (GIU)** exploring different areas of software development through hands-on projects.
 
-I enjoy working on projects that force me to understand what's happening **behind the scenes** — whether that's designing backend architecture, connecting AI to an application, building a workflow system, or creating a game from scratch.
+I enjoy building things that make me understand **what is happening behind the scenes** — from backend architecture and AI integration to workflow systems and game mechanics.
 
-Right now, I'm mainly focused on:
+Currently, I'm focused on:
 
-* ⚙️ Backend development with **Java & Spring Boot**
-* 🌐 Full-stack web development
-* 🤖 AI integration into applications
-* 🎮 Game development with **Unity & C#**
-* 🧠 Software architecture and system design
+* ⚙️ **Backend Development** with Java & Spring Boot
+* 🌐 **Full-Stack Web Development**
+* 🤖 **AI-powered Applications**
+* 🎮 **Game Development** with Unity & C#
+* 🧠 **Software Architecture & System Design**
 
 > **Currently building:** A workflow engine from the ground up with Java & Spring Boot.
+
+---
+
+# 🎓 Education
+
+### German International University
+
+**B.Sc. Computer Science**
+
+Currently studying Computer Science with coursework and projects involving:
+
+`Object-Oriented Programming` · `Data Structures` · `Computer Networks` · `Computer Organization` · `Software Development`
 
 ---
 
@@ -40,15 +50,12 @@ Right now, I'm mainly focused on:
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### 🌐 Web & Software
+## 🌐 Web & Software
 
-Building applications that solve real problems and exploring how their backend systems work.
-
-**Featured**
-
-**GIU Nexus**
+### GIU Nexus
 
 A full-stack career platform connecting students, recruiters, and administrators.
 
@@ -60,45 +67,50 @@ My contributions included:
 * AI job recommendations
 * Hugging Face sentence embeddings
 * Cosine similarity
-* React admin features
+* React administration features
 * Recruiter management
-* Multi-level approval workflows
+* Multi-level recruiter approval workflows
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🎮 Games & Interactive
+## 🎮 Games & Interactive
 
-Game development is where I experiment with mechanics, interaction, environments, and ideas that don't necessarily fit into traditional software.
+### Haunted Forest
 
-**Projects**
-
-**Haunted Forest**
-
-A 3D horror/adventure game built with Unity & C#.
+A 3D horror/adventure project built with **Unity & C#**.
 
 The player searches for a missing child, follows clues, finds three keys, and eventually discovers a hidden cave.
 
-**5 Million Haystack, 1 Needle**
+### 5 Million Haystack, 1 Needle
 
 A first-person 3D search game built around one ridiculous problem:
 
-**Find one needle hidden inside an enormous amount of hay.**
+> **Find one needle hidden inside an enormous amount of hay.**
+
+Exploring:
+
+* Large environments
+* Procedural placement
+* First-person interaction
+* Physical digging
+* Collision
+* Interactive mechanics
 
 </td>
 
 <td width="33%" valign="top">
 
-### ⚙️ Experimental
+## 🧪 Experimental
 
 Not every project starts with the goal of becoming a finished product.
 
-Some are built to answer a question:
+Some start with a simple question:
 
-**"Can I build this?"**
+### "Can I build this?"
 
-I use smaller projects and prototypes to explore:
+I use prototypes to explore:
 
 * AI integrations
 * Game mechanics
@@ -108,9 +120,10 @@ I use smaller projects and prototypes to explore:
 * New frameworks
 * Software ideas
 
-Building is how I learn.
+**Building is how I learn.**
 
 </td>
+
 </tr>
 </table>
 
@@ -127,16 +140,16 @@ I'm building a workflow engine step-by-step to understand how workflow systems a
 The project started from four core concepts:
 
 ```text
-Workflow
-   │
-   ├── States
-   │     │
-   │     └── Transitions
-   │
-   └── Workflow Instances
+                    WORKFLOW
+                       │
+          ┌────────────┴────────────┐
+          │                         │
+        STATES                 INSTANCES
+          │
+     TRANSITIONS
 ```
 
-I'm currently exploring:
+Currently exploring:
 
 * Domain modelling
 * Entity relationships
@@ -155,41 +168,35 @@ The goal isn't just to make it work.
 
 # 🧰 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,js,cs,lua" />
 </p>
 
-### Web & Backend
+### 🌐 Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,mongodb" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react" />
 </p>
 
-### Game Development
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,h2" />
+</p>
+
+### 🎮 Game Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,idea,clion,vscode" />
 </p>
-
----
-
-# 🎓 Education
-
-### German International University
-
-**B.Sc. Computer Science**
-
-Currently studying Computer Science with coursework and projects involving:
-
-`Object-Oriented Programming` · `Data Structures` · `Computer Networks` · `Computer Organization` · `Software Development`
 
 ---
 
@@ -199,7 +206,7 @@ Currently studying Computer Science with coursework and projects involving:
 
 **Software Engineering Intern**
 
-Gaining professional experience in software development while continuing to build personal and university projects.
+Gaining professional experience in software development while continuing to build university and personal projects.
 
 ---
 
@@ -223,22 +230,40 @@ I'm still early in my software engineering journey, so this profile is a record 
 
 ---
 
-# 📌 A Few Things About My Work
+# 🤝 Let's Connect
 
-* I prefer **building projects over only following tutorials**.
-* I like understanding how systems work underneath the surface.
-* I enjoy moving between **software and game development**.
-* Some projects are serious applications; others start as crazy ideas.
-* I'm constantly experimenting with new technologies and ways of building things.
+<div align="center">
+
+### Want to see more of what I build?
+
+<br>
+
+<a href="https://meedoahmedd.github.io/mohamed-ahmed-portfolio/">
+<img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-111827?style=for-the-badge&logoColor=white" />
+</a>
+
+  
+
+<a href="https://www.linkedin.com/in/mohamed-ahmed-642b38405/">
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="mailto:mohamedahmedmaxx1@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20EMAIL%20ME-374151?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### BUILD · LEARN · BREAK · FIX · REPEAT
+### BUILD · LEARN · EXPERIMENT · REPEAT
 
 <br>
 
-**Thanks for visiting my profile.**
+*Thanks for stopping by.*
 
 </div>
