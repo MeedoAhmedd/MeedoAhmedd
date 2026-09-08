@@ -24,10 +24,10 @@ I enjoy building things that make me understand **what is happening behind the s
 
 Currently, I'm focused on:
 
-* ⚙️ **Backend Development** with Java & Spring Boot
+* ⚙️ **Backend Development** 
 * 🌐 **Full-Stack Web Development**
 * 🤖 **AI-powered Applications**
-* 🎮 **Game Development** with Unity & C#
+* 🎮 **Game Development** 
 * 🧠 **Software Architecture & System Design**
 
 > **Currently building:** A workflow engine from the ground up with Java & Spring Boot.
