@@ -238,7 +238,7 @@ I'm still early in my software engineering journey, so this profile is a record 
 
 <br>
 
-<a href="https://meedoahmedd.github.io/mohamed-ahmed-portfolio/">
+<a href="https://meedoahmedd.github.io/">
 <img src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-111827?style=for-the-badge&logoColor=white" />
 </a>
 
